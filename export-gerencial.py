@@ -945,7 +945,7 @@ def gerar_html(export_data, stats, output_file):
     html += '''
         <div class="footer">
             <p>Relatório gerado automaticamente em ''' + datetime.now().strftime("%d/%m/%Y às %H:%M:%S") + '''</p>
-            <p>zbxVision by Nathan Schiavon - 2024</p>
+            <p>zbxVision by Nathan Schiavon - 2025</p>
         </div>
     </div>
     
