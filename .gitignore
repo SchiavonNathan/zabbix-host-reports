@@ -1,0 +1,30 @@
+# Arquivos de ambiente
+.env
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Relatórios gerados
+*_relatorio.html
+*_relatorio.json
+*_relatorio.xlsx
+*_export.json
+
+# Sistema
+.DS_Store
+Thumbs.db
