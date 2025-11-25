@@ -66,12 +66,12 @@ python export-gerencial.py 0101SVDB60 --output meu_relatorio --format excel
 - **Alertas Ativos**: Problemas atuais
 - **Top 20 Alertas**: Alertas mais frequentes
 
-![Relatório Excel - Resumo](imgs/1.png)
-
 ### HTML (.html)
 - Dashboard interativo com gráficos
 - Pesquisa em tempo real
 - Visualização profissional
+
+![Relatório HTML - Resumo](imgs/1.png)
 
 ![Relatório HTML - Dashboard](imgs/2.png)
 
