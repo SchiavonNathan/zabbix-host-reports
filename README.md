@@ -1,4 +1,4 @@
-# Zabbix Export Tool
+# zbxVision Host Reports
 
 Script Python para exportar dados de host do Zabbix em múltiplos formatos (JSON, HTML e Excel).
 
